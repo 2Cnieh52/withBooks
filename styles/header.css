@@ -4,3 +4,7 @@
     background-image: url("../img/Menu.png");
     display: inline-block;
 }
+
+.cabeçalho {
+    background-color: var(--branco);
+}
