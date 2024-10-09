@@ -9,3 +9,10 @@ body {
     background-color: var(--cor-de-fundo);
 }
 
+
+
+.menu {
+display: flex;
+justify-content: space-between;
+align-items: right;
+}
